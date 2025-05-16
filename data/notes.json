@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Alpenlibe Creamfills"
+    },
+    {
+      "id": 1,
+      "name": "Mazelo"
+    },
+    {
+      "id": 2,
+      "name": "Nescafe Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Orbit"
+    },
+    {
+      "id": 4,
+      "name": "Pulse"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
