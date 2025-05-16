@@ -15,4 +15,4 @@ Candy ML is a custom object detection project built using YOLOv11s to classify 5
   - Smart vending machines
   - Retail shelf monitoring
 
-  For a visual reference, you can check out **Ejtech Electronics** on YouTube.
+  For a deatiled explanation, you can check out **Ejtech Electronics** on YouTube.
